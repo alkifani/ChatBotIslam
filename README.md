@@ -48,6 +48,7 @@ lib/
 ├── main.dart                    # Entry point aplikasi
 ├── screens/
 │   ├── chatbot_page.dart        # Halaman utama chatbot
+│   ├── about_us.dart            # Halaman Tentang Aplikasi dan juga pengembang aplikasi
 │   └── splash_screen.dart       # Halaman pembuka aplikasi
 ├── services/
 │   └── api_service.dart         # Integrasi dengan API AI
