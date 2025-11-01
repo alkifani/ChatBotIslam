@@ -40,7 +40,7 @@ class _InputComposerState extends State<InputComposer> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
       child: TextField(
         focusNode: _focusNode,
         controller: widget.controller,
